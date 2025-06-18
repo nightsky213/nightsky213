@@ -37,7 +37,7 @@
 → Tools used: **Maven, SonarQube, Prometheus, Grafana, Trivy, Gitleaks**  
 🔗 [GitHub Repo](https://github.com/nightsky213/cicd-project.git)
 
-🔹 **Kubernetes WordPress Deployment**  
+🔹 **Kubernetes-Based WordPress \& MySQL Deployment with ArgoCD**  
 → Secure deployment with **MySQL, Kubernetes secrets, NodePort, Persistent Volumes**  
 🔗 [GitHub Repo](https://github.com/nightsky213/Devops.git)
 
